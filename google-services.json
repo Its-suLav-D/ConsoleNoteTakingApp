@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987970678139",
+    "firebase_url": "https://keepnote-dc727-default-rtdb.firebaseio.com",
+    "project_id": "keepnote-dc727",
+    "storage_bucket": "keepnote-dc727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987970678139:android:690959bd7d9ce6135361de",
+        "android_client_info": {
+          "package_name": "personal.Notes123.Sulav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987970678139-754tesv4nmggng12hinff6ddkfac6erm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCnIKL2YDhSheMohf4bWuuUB2IgD64nnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987970678139-754tesv4nmggng12hinff6ddkfac6erm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
